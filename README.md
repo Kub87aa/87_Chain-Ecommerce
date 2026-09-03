@@ -18,3 +18,11 @@ Modern, ultra-fast Single Page Application (SPA) built with the latest frontend 
 2. **Uruchom serwer deweloperski:**
    ```bash
    npm run dev
+
+3. **Zbuduj wersję produkcyjną:**
+   ```bash
+   npm run build
+
+4. **Sprawdź jakość kodu:**
+   ```bash
+   npm run lint
